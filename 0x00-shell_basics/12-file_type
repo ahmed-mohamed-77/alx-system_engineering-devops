@@ -1,2 +1,2 @@
 #!/bin/bash
-file -cdf /tmp/iamafile
+file /tmp/iamafile
